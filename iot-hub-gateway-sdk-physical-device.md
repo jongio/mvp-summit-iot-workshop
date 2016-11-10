@@ -233,7 +233,7 @@ Assuming the gateway repository is located in the home folder, configure the log
 
 ```json
 {
-    "module name": "logger",
+    "module name": "Logger",
     "loading args": {
       "module path": "build/modules/logger/liblogger.so"
     },
