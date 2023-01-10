@@ -2,7 +2,7 @@
 
 Welcome to the MVP Summit 2016 IoT Workshop! 
 
-
+Prueba de Jira
 
 We are so glad to have you with us today. We put together this workshop to share some new and exciting features coming to Azure IoT. Our goal is to get you up-to-speed on the latest developments so you can take the knowledge back to your office and start implementing IoT solutions with them.
 
